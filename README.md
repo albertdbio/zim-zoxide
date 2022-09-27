@@ -1,5 +1,7 @@
 # zim-zoxide
 
+Fork note: This fork simply aliases the zoxide commands to `cd` and `cdi`.
+
 Custom [zim-module](https://github.com/zimfw/zimfw) for [zoxide](https://github.com/ajeetdsouza/zoxide).
 
 ## Prerequisites
